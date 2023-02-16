@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "cli-color": "^2.0.3",
+    "hide-terminal-cursor": "^0.0.1",
+    "keypress": "^0.2.1"
+  }
+}
